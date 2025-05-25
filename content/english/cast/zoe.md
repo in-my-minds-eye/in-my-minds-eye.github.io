@@ -21,9 +21,9 @@ social:
     link: https://www.tiktok.com/@zoesthesia?_t=8gDuS4puvDE&_r=1
 ---
 
-Zoe (34, Singapore) is a synesthetic artist and musician based in Japan.
-She discovered her synesthesia at 25, when she found out that others couldn’t see the colour of their own voices.
+Zoe (34, Singapore) is a synaesthetic artist and musician based in Japan.
+She discovered her synaesthesia at 25, when she found out that others couldn’t see the colour of their own voices.
 
-This realization set Zoe on a journey of self-discovery, inspiring the Instagram and YouTube channels @zoesthesia, where she shares her experiences with synesthesia and its impact on her daily life.
+This realisation set Zoe on a journey of self-discovery, inspiring the Instagram and YouTube channels @zoesthesia, where she shares her experiences with synaesthesia and its impact on her daily life.
 
-In 2023, Zoe connected with fellow synesthete Maike and currently co-produces the podcast Let’s Talk Synaesthesia. As her online following grew, so did the challenges she faced, including backlash and misconceptions.
+In 2023, Zoe connected with fellow synaesthete Maike and currently co-produces the podcast *Let’s Talk Synaesthesia*. As her online following grew, so did her challenges, including backlash and misconceptions.
