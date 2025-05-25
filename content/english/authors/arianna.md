@@ -1,6 +1,6 @@
 ---
 title: Arianna Angelico
-image: "/images/avatar.png"
+image: "/images/ari_profile.jpg"
 description: ariannaangelico
 social:
   - name: github

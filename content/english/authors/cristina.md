@@ -1,6 +1,6 @@
 ---
 title: Cristina Pagnoncelli
-image: "/images/avatar.png"
+image: "/images/cri_profile.jpg"
 description: cristinapagnoncelli
 
 social:
