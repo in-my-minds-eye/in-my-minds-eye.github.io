@@ -1,13 +1,13 @@
 ---
 # Banner
 banner:
-  title: "In My Mind's Eye -- <br>Unlocking Synesthesia"
+  title: "In My Mind's Eye -- <br>Unlocking Synaesthesia"
   content: A Short Documentary Exploring Perception, Identity, and Sensory Diversity
   image: "/videos/teaser.mov"
   button:
     enable: true
-    label: "Back us up on Indiegogo"
-    link: "https://github.com/zeon-studio/hugoplate"
+    label: "Back us up on Indiegogo (coming soon!)"
+    link: "in-my-minds-eye.github.io"
 
 # Features
 features:
