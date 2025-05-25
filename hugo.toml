@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 # The base URL of your site (required). This will be prepended to all relative URLs.
-# baseURL = "www.inmymindseye.org"
-baseURL = "https://in-my-minds-eye.github.io/"
+baseURL = "https://www.inmymindseye.org/"
+# baseURL = "https://in-my-minds-eye.github.io/"
 # Title of your website (required).
 title = "In My Mind's Eye"
 # Your theme name
