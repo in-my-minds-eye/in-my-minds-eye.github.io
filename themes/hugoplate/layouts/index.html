@@ -26,7 +26,19 @@
             {{ end }}
           </div>
           <div class="col-12">
-            {{ partial "video" (dict "Src" .image "Alt" "Banner image" "Loading" "eager" "Class" "mx-auto lg:!max-w-[800px]" "DisplayXL" "800x" ) }}
+            <!-- {{ partial "video" (dict "Src" .image "Alt" "Banner image" "Loading" "eager" "Class" "mx-auto lg:!max-w-[800px]" "DisplayXL" "800x" ) }} -->
+            <div class="mx-auto lg:!max-w-[800px]">
+            <iframe
+                 width="800"
+                 height="450"
+                 src="https://youtu.be/_JOyeZNBjIQ"
+                 title="YouTube video player"
+                 frameborder="0"
+                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                 allowfullscreen>
+            </iframe>
+            </div>
+
           </div>
         </div>
       </div>
