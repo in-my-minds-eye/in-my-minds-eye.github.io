@@ -27,18 +27,15 @@
           </div>
           <div class="col-12">
             <!-- {{ partial "video" (dict "Src" .image "Alt" "Banner image" "Loading" "eager" "Class" "mx-auto lg:!max-w-[800px]" "DisplayXL" "800x" ) }} -->
-            <div class="mx-auto lg:!max-w-[800px]">
-            <iframe
-                 width="800"
-                 height="450"
-                 src="https://youtu.be/_JOyeZNBjIQ"
-                 title="YouTube video player"
-                 frameborder="0"
-                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                 allowfullscreen>
-            </iframe>
+            <div class="video-container mx-auto lg:!max-w-[800px]">
+              <iframe src="https://www.youtube.com/embed/_JOyeZNBjIQ?si=fK3mGTwE5ojQLiAa"
+                class="w-full rounded-lg mx-w-full aspect-video DisplayXL:!max-w-[800px]"
+                title="YouTube video player"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin-when-cross-origin"
+                allowfullscreen></iframe>
             </div>
-
           </div>
         </div>
       </div>
