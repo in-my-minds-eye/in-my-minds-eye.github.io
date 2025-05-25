@@ -11,9 +11,9 @@ banner:
 
 # Features
 features:
-  - title: "What's the project about?"
+  - title: "Hello, everyone!"
     image: "/images/lets_talk_synaesthesia.jpg"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+    content: "We are Maike and Zoe - 2 women with synaesthesia, from 2 corners of the world, on 1 journey. We’re very excited to be part of this short intimate documentary, that plunges into our vulnerabilities of having a fascinating, rarely spoken about neurodivergent trait. Support us in spreading awareness about synaesthesia, fostering community, and building a more understanding and empathetic world. We invite you, in any way you can, big or small, to be a part of our journey."
 
   - image: "/images/service-2.png"
     content: "
