@@ -3,10 +3,6 @@ title: Arianna Angelico
 image: "/images/ari_profile.jpg"
 description: ariannaangelico
 social:
-  - name: youtube
-    icon: fa-brands fa-youtube
-    link: https://youtube.com/playlist?list=PLCIUei1aqC1q4uedcTHC0ppbENw9tRc7N&feature=shared
-
   - name: instagram
     icon: fa-brands fa-instagram
     link: https://instagram.com/arianna_angelico
@@ -14,6 +10,10 @@ social:
   - name: linkedin
     icon: fa-brands fa-linkedin
     link: https://linkedin.com/in/ariannangelico14
+
+  - name: youtube
+    icon: fa-brands fa-youtube
+    link: https://youtube.com/playlist?list=PLCIUei1aqC1q4uedcTHC0ppbENw9tRc7N&feature=shared
 ---
 
 Videographer and video editor with over a decade of experience in television and digital media.
