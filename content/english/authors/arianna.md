@@ -3,17 +3,17 @@ title: Arianna Angelico
 image: "/images/ari_profile.jpg"
 description: ariannaangelico
 social:
-  - name: github
-    icon: fa-brands fa-github
-    link: https://github.com
+  - name: youtube
+    icon: fa-brands fa-youtube
+    link: https://youtube.com/playlist?list=PLCIUei1aqC1q4uedcTHC0ppbENw9tRc7N&feature=shared)
 
-  - name: twitter
-    icon: fa-brands fa-twitter
-    link: https://twitter.com
+  - name: instagram
+    icon: fa-brands fa-instagram
+    link: https://instagram.com/arianna_angelico
 
   - name: linkedin
     icon: fa-brands fa-linkedin
-    link: https://linkedin.com
+    link: https://linkedin.com/in/ariannangelico14
 ---
 
 Videographer and video editor with over a decade of experience in television and digital media.
