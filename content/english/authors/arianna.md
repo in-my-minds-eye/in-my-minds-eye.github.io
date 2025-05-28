@@ -5,7 +5,7 @@ description: ariannaangelico
 social:
   - name: youtube
     icon: fa-brands fa-youtube
-    link: https://youtube.com/playlist?list=PLCIUei1aqC1q4uedcTHC0ppbENw9tRc7N&feature=shared)
+    link: https://youtube.com/playlist?list=PLCIUei1aqC1q4uedcTHC0ppbENw9tRc7N&feature=shared
 
   - name: instagram
     icon: fa-brands fa-instagram
