@@ -22,7 +22,7 @@ social:
 ---
 
 Zoe is a synaesthetic artist based in Japan.
-She discovered her synaesthesia at 25, when she found out that others couldn’t see the colour of their own voices.
+She discovered her synaesthesia at the age of 25, when she found out that others couldn’t see the colour of their own voices.
 
 This realisation set Zoe on a journey of self-discovery, inspiring the Instagram and YouTube channels @zoesthesia, where she shares her experiences with synaesthesia and its impact on her daily life.
 
