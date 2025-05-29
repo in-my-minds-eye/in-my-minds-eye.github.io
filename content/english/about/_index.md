@@ -22,7 +22,7 @@ Let's Talk Synaesthesia:
 [Spotify](https://open.spotify.com/show/5nNVhDKe24Z12GjtFl0jVf),
 [Apple](https://podcasts.apple.com/gb/podcast/lets-talk-synaesthesia/id1670183147)
 
-@zoesthesia:
+Zoesthesia:
 [Website](https://www.zoesthesia.com/),
 [Youtube](https://www.youtube.com/@zoesthesia),
 [Instagram](https://www.instagram.com/zoesthesia/),
