@@ -3,7 +3,7 @@
 baseURL = "https://www.inmymindseye.org/"
 # baseURL = "https://in-my-minds-eye.github.io/"
 # Title of your website (required).
-title = "In My Mind's Eye"
+title = "In My Mind's Eye -- Unlocking Synaesthesia"
 # Your theme name
 theme = "hugoplate"
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
