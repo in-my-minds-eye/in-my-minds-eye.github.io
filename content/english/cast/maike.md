@@ -1,6 +1,6 @@
 ---
 title: Maike Preißing
-image: "/images/maike_profile.png"
+image: "/images/maike 1_1.png"
 description: maikepreissing
 
 social:
