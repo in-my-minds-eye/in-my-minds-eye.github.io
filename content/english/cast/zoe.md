@@ -21,7 +21,7 @@ social:
     link: https://www.tiktok.com/@zoesthesia?_t=8gDuS4puvDE&_r=1
 ---
 
-Zoe is a self-diagnosed synaesthetic artist based in Ōfuna, Japan.
+Zoe is a Japan-based synaesthesia artist with ADHD.
 She discovered her synaesthesia at the age of 25, when she found out that others couldn’t see the colour of their own voices.
 
 This realisation set Zoe on a journey of self-discovery, inspiring the Instagram and YouTube channels @zoesthesia, where she shares her experiences with synaesthesia and its impact on her daily life.
