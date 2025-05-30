@@ -1,5 +1,5 @@
 ---
-title: Cristina Pagnoncelli
+title: Cristina Pagnoncelli - Filmmaker
 image: "/images/cri_profile.jpg"
 description: cristinapagnoncelli
 
