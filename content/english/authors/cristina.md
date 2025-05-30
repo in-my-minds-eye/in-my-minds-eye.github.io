@@ -1,6 +1,6 @@
 ---
 title: Cristina Pagnoncelli - Filmmaker
-image: "/images/cri_profile.jpg"
+image: "/images/cristina 1_1.png"
 description: cristinapagnoncelli
 
 social:
