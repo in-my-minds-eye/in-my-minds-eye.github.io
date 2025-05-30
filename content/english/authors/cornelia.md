@@ -1,5 +1,5 @@
 ---
-title: Cornelia Greil - PR
+title: Cornelia Greil - Public Relations
 image: "/images/cornelia 1_1.png"
 description: corneliagreil
 
