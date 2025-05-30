@@ -1,7 +1,7 @@
 ---
 # Banner
 banner:
-  title: "IN MY MIND'S EYE -- <br>Unlocking Synaesthesia"
+  title: "IN MY MIND'S EYE <br>Unlocking Synaesthesia"
   content: A Short Documentary Exploring Perception, Identity, and Sensory Diversity
   image: "/videos/teaser.mov"
   button:
