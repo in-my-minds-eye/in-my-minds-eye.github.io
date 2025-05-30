@@ -2,8 +2,8 @@
 title: "About this project"
 meta_title: "About"
 description: about
-image: "/images/banner.jpg"
-draft: false
+image: "/images/about_banner.png"
+draft: true
 ---
 
 *In My Mind’s Eye – Unlocking Synaesthesia* is an intimate exploration of synaesthesia, a neurological trait in which the senses merge in vivid, unexpected ways. 
