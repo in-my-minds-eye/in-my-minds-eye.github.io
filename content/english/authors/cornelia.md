@@ -6,7 +6,7 @@ description: corneliagreil
 social:
   - name: instagram
     icon: fa-brands fa-instagram
-    link: 
+    link: https://instagram.com/cornelia_greil_photography/
 
   - name: linkedin
     icon: fa-brands fa-linkedin
