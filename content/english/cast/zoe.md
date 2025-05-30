@@ -1,6 +1,6 @@
 ---
 title: Zoe Ng
-image: "/images/zoe_profile.png"
+image: "/images/zoe 1_1.png"
 description: zoeng
 
 social:
