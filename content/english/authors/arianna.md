@@ -1,5 +1,5 @@
 ---
-title: Arianna Angelico
+title: Arianna Angelico - Filmmaker
 image: "/images/arianna 1_1.png"
 description: ariannaangelico
 social:
