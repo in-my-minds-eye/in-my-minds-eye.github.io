@@ -1,6 +1,6 @@
 ---
 title: Arianna Angelico
-image: "/images/ari_profile.jpg"
+image: "/images/arianna 1_1.png"
 description: ariannaangelico
 social:
   - name: instagram
