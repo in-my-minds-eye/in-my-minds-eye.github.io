@@ -7,7 +7,7 @@ draft: false
 ---
 
 *In My Mind’s Eye – Unlocking Synaesthesia* is an intimate exploration of synaesthesia, a neurological trait in which the senses merge in vivid, unexpected ways. 
-For Zoe and Maike, numbers have colours, words carry taste, and music becomes texture. But what’s it really like to live in a world where perception is deeply personal and endlessly intertwined?
+For Zoe and Maike, numbers have colours, sounds carry taste, and music becomes texture. But what’s it really like to live in a world where perception is deeply personal and endlessly intertwined?
 
 Through candid interviews, observational footage, and striking animated visuals, the film follows their journeys as they navigate daily life, advocate for understanding, and prepare for their first live synaesthete workshop in London. 
 
