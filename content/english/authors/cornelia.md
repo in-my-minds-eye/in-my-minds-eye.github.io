@@ -13,4 +13,3 @@ social:
     link: 
 ---
 
-Coming Soon
