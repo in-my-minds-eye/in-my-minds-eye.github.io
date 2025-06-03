@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "Back us up on Indiegogo (coming soon!)"
-    link: "https://www.indiegogo.com/project/preview/0e4f2c16"
+    link: "in-my-minds-eye.github.io"
 
 # Features
 features:
