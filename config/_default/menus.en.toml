@@ -18,6 +18,11 @@ weight = 2
 
 [[main]]
 name = "Contact"
+weight = 2
+
+[[main]]
+parent = "Contact"
+name = "Contact Us"
 url = "/contact"
 weight = 2
 
@@ -29,6 +34,12 @@ weight = 2
 [[main]]
 name = "Cast"
 url = "/cast"
+weight = 2
+
+[[main]]
+name = "Instagram"
+parent = "Contact"
+url = "https://www.instagram.com/inmymindseye.film?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
 weight = 2
 
 # footer menu
