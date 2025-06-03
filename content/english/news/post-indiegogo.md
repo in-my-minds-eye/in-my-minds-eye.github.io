@@ -1,7 +1,7 @@
 ---
 title: "Indiegogo campaign goes live on June 4th"
 meta_title: ""
-description: "IndieGoGo campaign"
+description: "Indiegogo campaign"
 date: 2025-06-03T12:00:00Z
 image: "/images/1_1 (title).png"
 author: ""
