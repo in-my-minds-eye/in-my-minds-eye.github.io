@@ -1,5 +1,5 @@
 ---
-title: "Indiegogo campaign goes live on June 4th"
+title: "Indiegogo campaign goes live on June 4th!"
 meta_title: ""
 description: "Indiegogo campaign"
 date: 2025-06-04T07:00:00Z
