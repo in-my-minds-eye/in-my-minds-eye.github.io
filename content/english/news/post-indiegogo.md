@@ -8,7 +8,7 @@ author: ""
 draft: false
 ---
 
-We’re thrilled to announce that today, June 4th, we’re officially launching our Indiegogo campaign for our upcoming short documentary, *In My Mind’s Eye – Unlocking Synaesthesia*.
+We’re thrilled to announce that today, June 4th, we’re officially launching our [Indiegogo campaign](LINK) for our upcoming short documentary, *In My Mind’s Eye – Unlocking Synaesthesia*.
 
 By supporting our Indiegogo campaign, you’re not just helping us finish the film — you’re also helping to amplify awareness and understanding of a neurological trait that is still widely misunderstood.
 
