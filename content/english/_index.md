@@ -6,8 +6,8 @@ banner:
   image: "/videos/teaser.mov"
   button:
     enable: true
-    label: "Back us up on Indiegogo (coming soon!)"
-    link: "in-my-minds-eye.github.io"
+    label: "Support Us on Indiegogo"
+    link: "https://www.indiegogo.com/projects/in-my-mind-s-eye-unlocking-synaesthesia/x/38597585#/"
 
 # Features
 features:
