@@ -2,7 +2,7 @@
 title: "Indiegogo campaign is now live!"
 meta_title: ""
 description: "Indiegogo campaign"
-date: 2025-06-04T07:30:00Z
+date: 2025-06-04
 image: "/images/1_1 (title).png"
 author: ""
 draft: false
