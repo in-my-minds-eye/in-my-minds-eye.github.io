@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "Support Us on Indiegogo"
-    link: "https://www.indiegogo.com/projects/in-my-mind-s-eye-unlocking-synaesthesia/x/38597585#/"
+    link: "https://www.indiegogo.com/projects/in-my-mind-s-eye-unlocking-synaesthesia#/"
 
 # Features
 features:
