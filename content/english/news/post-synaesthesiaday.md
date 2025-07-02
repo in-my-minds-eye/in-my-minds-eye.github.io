@@ -1,8 +1,8 @@
 ---
-title: "Synaesthesia Awareness Day, July 2nd"
+title: "Synaesthesia Awareness Day"
 meta_title: ""
 description: "Synaesthesia Day"
-date: 2025-06-04
+date: 2025-07-02
 image: "/images/Synaesthesia Day.jpg"
 author: ""
 draft: false
