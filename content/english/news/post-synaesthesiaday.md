@@ -1,17 +1,11 @@
 ---
-title: "Indiegogo campaign is now live!"
+title: "Synaesthesia Awareness Day 07/02/25"
 meta_title: ""
-description: "Indiegogo campaign"
+description: "Synaesthesia Day"
 date: 2025-06-04
-image: "/images/1_1 (title).png"
+image: "/images/"
 author: ""
 draft: false
 ---
 
-We’re thrilled to announce that today, June 4th, we’re officially launching our [Indiegogo campaign](https://www.indiegogo.com/projects/in-my-mind-s-eye-unlocking-synaesthesia/x/38597585#/) for our upcoming short documentary, *In My Mind’s Eye – Unlocking Synaesthesia*.
 
-By supporting our Indiegogo campaign, you’re not just helping us finish the film — you’re also helping to amplify awareness and understanding of a neurological trait that is still widely misunderstood.
-
-The campaign will be live for the next 40 days.
-
-Spread the word and stay tuned!
