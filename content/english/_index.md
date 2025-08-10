@@ -5,7 +5,7 @@ banner:
   content: A Short Documentary Exploring Perception, Identity, and Sensory Diversity
   image: "/videos/teaser.mov"
   button:
-    enable: true
+    enable: false
     label: "Support Us on Indiegogo"
     link: "https://www.indiegogo.com/projects/in-my-mind-s-eye-unlocking-synaesthesia#/"
 
