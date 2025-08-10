@@ -8,7 +8,7 @@ author: ""
 draft: false
 ---
 
-The Indiegogo campaign for our short documentary officially wrapped up on August 4th, after being extended from 40 to a maximum of 60 days.
+The Indiegogo campaign for our short documentary officially wrapped up on August 4th, after being extended from 40 to a maximum of 60 days. And this post is to say "THANK YOU!"
 
 We want to express our heartfelt gratitude to everyone who believed in our project and supported us along the way.
 Your contributions and donations are making a real difference and will help us move forward with the production of the film.
