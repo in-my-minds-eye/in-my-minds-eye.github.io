@@ -17,7 +17,7 @@ features:
 
   - title: "Bloopers are out!"
     image: /images/documentary_bloopers.png
-    content: "A sneak peek of some of the fun times during production. We hope you enjoy it!"
+    content: "A sneak peek of some of the fun moments from our filming days. We hope you enjoy it!"
     button: 
       enable: true
       label: Watch now!
