@@ -45,7 +45,7 @@
 
   <!-- Features -->
   {{ range $i, $e:= .Params.features }}
-    <section class="section-sm {{ if (modBool $i 2) }}bg-gradient{{ end }}">
+    <section class="section-sm bg-gradient">
       <div class="container">
         <div class="row items-center justify-between">
           <div
@@ -74,7 +74,7 @@
             </ul>
             {{ with .button }}
               {{ if .enable }}
-                <a class="btn btn-primary mt-6" href="{{ .link | absURL }}">
+                <a class="btn btn-primary mt-6" href="{{ .link | absURL }}" target="_blank">
                   {{ .label }}
                   <i class="fa fa-arrow-right pl-2"></i>
                 </a>
