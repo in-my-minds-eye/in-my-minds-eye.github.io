@@ -17,7 +17,7 @@ features:
 
   - title: "Bloopers are out!"
     image: /images/documentary_bloopers.png
-    content: "Here are some lovely silly moments with Maike and Zoe while filming the documentary. We hope you enjoy them!"
+    content: "A sneak peek of some of the fun times during production. We hope you enjoy it!"
     button: 
       enable: true
       label: Watch now!
