@@ -2,7 +2,7 @@
 title: "Bloopers & Updates"
 meta_title: ""
 description: "Bloopers & Updates"
-date: 2026-04-29
+date: 2026-04-29T00:00:00
 image: "/images/bloopers 1_1.png"
 author: ""
 draft: false
