@@ -3,13 +3,14 @@ title: Leonore Egbert - Motion Designer
 image: "/images/leo 1_1.png"
 description: leoegbert
 social:
+  - name: website
+    icon: fa-solid fa-globe
+    link: https://discover-synaesthesia.art
+    
   - name: instagram
     icon: fa-brands fa-instagram
     link: https://instagram.com/leonoreegbert
 
-  - name: youtube
-    icon: fa-brands fa-globe
-    link: https://discover-synaesthesia.art
 ---
 
 Leo is a multidisciplinary artist and designer with over 25 years of experience. Her work explores synaesthesia and the way we experience the world through multiple senses.
