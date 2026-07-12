@@ -17,4 +17,5 @@ Leo is a multidisciplinary artist and designer with over 25 years of experience.
 
 Her recent projects include translating scents into animation and music for an olfactory research study, and creating an animated film inspired by her own synaesthetic experience of music.
 The film received an Honourable Mention at the MuVi7 International Exhibition for Synaesthesia and Visual Music.
+
 She is passionate about making the invisible visible, creating work that brings the rich, multisensory experience of synaesthesia to life.
